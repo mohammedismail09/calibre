@@ -1,0 +1,37 @@
+{
+  "projects": [
+    {
+      "id": "p1",
+      "name": "Amazon",
+      "description": "Discussion about designing, building of website and also how we gonna structure the project."
+    }
+  ],
+  "employees": [
+    {
+      "email": "ismail@gmail.com",
+      "name": "Mohammed Ismail",
+      "rate": 200
+    }
+  ],
+  "meetings": [
+    {
+      "id": "m1",
+      "title": "Homepage Discussion",
+      "duration": 2.0,
+      "attendees": [
+        {
+          "name": "Mohammed Ismail",
+          "rate": 200
+        }
+      ],
+      "aiProjectTag": "p2",
+      "confidence": 0.96,
+      "reasoning": "Contextually assigned via HR custom scheduler matrix attributes.",
+      "date": "2026-06-14",
+      "cost": 400,
+      "isLowConfidence": false,
+      "isAnomaly": false,
+      "anomalyReason": ""
+    }
+  ]
+}
